@@ -27,10 +27,10 @@ main {
 }
 section {
   font-size: 1em;
-  background: #888;
-  width: 22%;
+  background: #6a729a;
+  width: 95%;
   margin: 1em 1% 1em 1%;
-  display: inline-block;
+  display: block;
 }
 section:hover {
   background: #666;
